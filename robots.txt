@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.jubin.tech/superjp.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/gilajp.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/pakong86.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/viral88.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/clan4d.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/elang212.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/gori77.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/viral4d.html/sitemap.xml
+Sitemap: https://ftp.jubin.tech/playground88.html/sitemap.xml
